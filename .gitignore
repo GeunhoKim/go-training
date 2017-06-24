@@ -12,3 +12,11 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+
+# Webstorm project folders
+.idea/
+.idea/libraries/
+.idea/workspace.xml
+**/.idea/workspace.xml
+
+.DS_Store
